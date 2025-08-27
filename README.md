@@ -1,0 +1,2 @@
+This is a tool that can encrypt and decrypt Chinese and English. Sometimes it will report an error in Chinese. I am a sixth-grade student and this is my first Java work. It is inevitable that there will be errors. I hope you can give me more advice. If you find any errors, you can send your suggestions to: yanlele123456@outlook.com or yanyile123456@outlook.com. I will modify it as soon as I see it. Thank you! ! !
+这是一款可以加密解密中英文的工具，中文有时会报错。本人六年级学生，第一次用 Java 做作品，难免会有错误，希望大家多多指教。如果发现任何错误，可以将建议发送至：yanlele123456@outlook.com 或者 yanyile123456@outlook.com，我会在看到后尽快修改，谢谢！！！
